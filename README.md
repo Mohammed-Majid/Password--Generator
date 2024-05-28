@@ -59,5 +59,5 @@ The application allows users to specify the length of the password (between 8 an
 
 - `app.py`: The main Flask application file.
 - `templates/index.html`: The HTML template for rendering the password generation form and displaying the result.
-- `static/css/styles.css`: The CSS file for styling the HTML template (if applicable).
+- `static/css/styles.css`: The CSS file for styling the HTML template.
 
